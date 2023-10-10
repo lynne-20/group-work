@@ -3,6 +3,7 @@
 Task 1:
 
 *Output*
+
 ![task1](https://github.com/lynne-20/group-work/assets/147532078/c161091a-37fa-4451-ae3c-4f873492de44)
 
 Task 2:
