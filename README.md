@@ -12,6 +12,25 @@ Task 1:
 
 ![task2](https://github.com/lynne-20/group-work/assets/147532078/f02163a8-1226-4e5e-ad9d-3546972fb670)
 
+Describe the logic used. 
+
+1.Check if at the first Index [0] the value is ‘/’ then follow below steps else print “It is not a comment”.
+
+        2.If line[0] == ‘/’:
+        
+        ◦ If line[1] == ‘/’, then print “It is a single line comment”.
+        
+        ◦ If line[1] == ‘*’, then traverse the string and if any adjacent pair of ‘*’ & ‘/’ is found then print “It is a multi-line comment”.
+        
+3.Otherwise, print “It is not a comment”.
+
+ii) Was lexical analysis or/and syntax analysis concepts important in your logic? If yes, how?
+
+-YES both concepts were used.
+
+-lexical analysis would be responsible for recognizing comments (e.g., // and /* ... */) as special tokens, separate from regular code tokens.
+
+-syntax analysis would help distinguish between different language constructs, such as variable declarations, function definitions, control flow statements, and comments. It ensures that the code follows the syntactical rules of the C++ language.
 
 Task 2:
 
