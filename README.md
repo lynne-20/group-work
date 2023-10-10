@@ -3,10 +3,10 @@
 Task 1:
 
 *Output*
-
-![image](https://github.com/lynne-20/group-work/assets/147532078/618113e8-ab30-4a9b-9afa-f7ddf2981ba4)
+![task1](https://github.com/lynne-20/group-work/assets/147532078/c161091a-37fa-4451-ae3c-4f873492de44)
 
 Task 2:
+
 
 *Execution*
 
